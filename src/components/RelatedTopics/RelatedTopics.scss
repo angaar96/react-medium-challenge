@@ -1,0 +1,13 @@
+@use "../../assets/sass/_variables.scss" as *;
+
+.relatedTopics { 
+  align-self: flex-end; 
+  text-align: left;
+  margin-bottom: 20px; 
+} 
+
+.relatedTopics > p {
+  color: $secondary-color;
+  font-size: $primary-fontsize;
+  margin-bottom: 5px;  
+}

@@ -1,0 +1,26 @@
+.articlePicture {
+  height: 50px;
+  width: 50px;
+}
+
+.article {
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.articleTime {
+  color: grey;
+  font-size: 10px;
+}
+
+.articleDetails {
+  font-size: 15px;
+  margin-right: 5px;
+}
+
+.articleTitle {
+  margin-bottom: 10px;
+}

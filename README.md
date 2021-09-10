@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a copy of the Medium programming page, constructed with React as a learning exercise in order to practice components, props and hierarchy. 
+
 ## Available Scripts
 
 In the project directory, you can run:

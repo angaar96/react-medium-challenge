@@ -1,0 +1,32 @@
+@use "../../assets/sass/_variables.scss" as *;
+
+.navbar {
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+  width: 65vw;
+  &__left-side__logo {
+    width: 200px;
+    height: 50px; 
+  }
+  &__left-side, &__right-side {
+    display: flex;
+    justify-content: space-around; 
+    align-items: center; 
+  }
+  &__left-side__vertical-line {
+    height: 30px;
+    background-color: $secondary-color;
+    width: 1px; 
+    margin-left: 10px; 
+    margin-right: 10px; 
+  }
+  &__right-side__items {
+    margin: 15px; 
+  }
+  &__right-side__sign-in {
+    color: $tertiary-color;
+  }
+}
+
+

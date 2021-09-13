@@ -8,7 +8,7 @@ const PopularSubarticle = (props) => {
         <h3 className = "articleTitle"> {articleTitle} </h3>
         <h4 className = "articleTime"> {articleTime} </h4>
       </div>
-      <img src = "http://www.fillmurray.com/284/196" className="articlePicture" alt="article"></img>
+      <img src = "http://www.fillmurray.com/140/100" className="articlePicture" alt="article"></img>
     </div>
   )
 }

@@ -6,9 +6,9 @@ const MainContent = (props) => {
   const {authorName, sourceName, articleDateAndDuration} = props; 
   return (
     <div className = "main-content">
-      <img src = "http://www.fillmurray.com/460/300" alt = "bill murray" className = "main-content__img"></img>
-      <h2 className = "main-content__article__header"> Is It Time to Get Excited About Windows 11? </h2>
-      <h3 className = "main-content__article__subheader"> Big changes are coming and that might be a good thing </h3>
+      <img src = "http://www.fillmurray.com/300/200" alt = "bill murray" className = "main-content__img"></img>
+      <h2 className = "main-content__article__header"> Is It Time to Get Excited About Bill Murray? </h2>
+      <h3 className = "main-content__article__subheader"> Bill Murray is back and we think that's a good thing </h3>
       <div className = "main-content__article">
         <img className = "main-content__article__img" alt = "main article" src ="http://www.fillmurray.com/140/100"></img>
         <div className = "main-content__article__data"> 

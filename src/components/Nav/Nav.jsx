@@ -9,7 +9,7 @@ const Nav = (props) => {
       <div className = "navbar__left-side">  
         <img src = {logoPath} className="navbar__left-side__logo" alt="logo"></img>
         <div className = "navbar__left-side__vertical-line"></div>
-        <p> Programming </p>
+        <p className = "navbar__left-side__section-title"> Programming </p>
       </div>
       <div className = "navbar__right-side"> 
         <p className = "navbar__right-side__items"> Become a member </p>

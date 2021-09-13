@@ -17,9 +17,9 @@ const FeaturedWriter = (props) => {
         <p> Always drinking coffee, always coding, and always building beautiful websites </p>
       </div>
       <div className = "featured-writer__card-3"> 
-        <PopularSubarticle articleTitle = "How to Study and Pass the AWS Associate Developer Exam" articleTime = "7 min read"/>
-        <PopularSubarticle articleTitle = "How to Send Data Between Chrome Extension Scripts" articleTime = "6 min read"/>
-        <PopularSubarticle articleTitle = "The Biggest Takeaway From My First Year as a Software Engineer" articleTime = "5 min read"/>
+        <PopularSubarticle articleTitle = "How to Study and Pass the AWS Associate Developer Exam" articleTime = "69 year read"/>
+        <PopularSubarticle articleTitle = "How to Send Data Between Chrome Extension Scripts" articleTime = "69 min read"/>
+        <PopularSubarticle articleTitle = "The Biggest Takeaway From My First Year as a Software Engineer" articleTime = "69 sec read"/>
       </div>
     </div>
     </div>

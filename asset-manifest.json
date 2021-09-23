@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-medium-challenge/static/css/main.e59216c2.chunk.css",
+    "main.js": "/react-medium-challenge/static/js/main.f0daf346.chunk.js",
+    "main.js.map": "/react-medium-challenge/static/js/main.f0daf346.chunk.js.map",
+    "runtime-main.js": "/react-medium-challenge/static/js/runtime-main.4748b931.js",
+    "runtime-main.js.map": "/react-medium-challenge/static/js/runtime-main.4748b931.js.map",
+    "static/js/2.6c502695.chunk.js": "/react-medium-challenge/static/js/2.6c502695.chunk.js",
+    "static/js/2.6c502695.chunk.js.map": "/react-medium-challenge/static/js/2.6c502695.chunk.js.map",
+    "static/js/3.d8ce2954.chunk.js": "/react-medium-challenge/static/js/3.d8ce2954.chunk.js",
+    "static/js/3.d8ce2954.chunk.js.map": "/react-medium-challenge/static/js/3.d8ce2954.chunk.js.map",
+    "index.html": "/react-medium-challenge/index.html",
+    "static/css/main.e59216c2.chunk.css.map": "/react-medium-challenge/static/css/main.e59216c2.chunk.css.map",
+    "static/js/2.6c502695.chunk.js.LICENSE.txt": "/react-medium-challenge/static/js/2.6c502695.chunk.js.LICENSE.txt",
+    "static/media/logo.83b0a7b6.png": "/react-medium-challenge/static/media/logo.83b0a7b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4748b931.js",
+    "static/js/2.6c502695.chunk.js",
+    "static/css/main.e59216c2.chunk.css",
+    "static/js/main.f0daf346.chunk.js"
+  ]
+}
